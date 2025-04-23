@@ -116,4 +116,4 @@ If you face a connection error from Streamlit to MySQL, confirm that both contai
 
 Below is a screenshot of the working Streamlit app successfully fetching data from the MySQL database:
 
-![Streamlit App Screenshot](streamlit_app.png)
+![Streamlit App Screenshot](screenshots/streamlit_app.png)
